@@ -43,8 +43,8 @@ All of these can be installed manually by clicking on the links above or you can
 To bring up the development environment you should clone this repo, change into the repo directory, and then open Visual Studio Code using the `code .` command. VS Code will prompt you to reopen in a container and you should say **yes**. This will take a while as it builds the Docker image and creates a container from it to develop in.
 
 ```bash
-git clone https://github.com/ibm-developer-skills-network/duwjx-tdd_bdd_PracticeCode.git
-cd duwjx-tdd_bdd_PracticeCode
+git clone https://github.com/areez/TDD-BDD-PracticeCode.git
+cd TDD-BDD-PracticeCode
 code .
 ```
 
